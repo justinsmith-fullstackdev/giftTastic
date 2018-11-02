@@ -1,4 +1,4 @@
-# HW - Giftastic!
+# Giftastic!
 
 ## Live Link
  - https://justinsmith-fullstackdev.github.io/giftTastic/.

@@ -20,7 +20,7 @@ var buttonGenerator = function (){
 // The user clicks on a generated orange button, which generates 10 static, non-animated gif images from the GIPHY API and places them on the page. 
 $("#buttonArea").on("click", ".btn", function(){
   		var thing = $(this).attr("data");
-  		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + thing + "&api_key=dc6zaTOxFJmzC&limit=10";
+  		var queryURL = "https://api.giphy.com/v1/gifs/search?q=" + thing + "dxJ7rsLbZUykpWNIQ8AhKldAfLMGFopL";
 
 
 
